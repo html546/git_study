@@ -21,3 +21,5 @@ git的学习
     - 提交版本
 - git log 
     - 查看版本记录
+- git checkbout xxx
+    - 穿越到指定的历史节点
